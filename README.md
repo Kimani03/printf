@@ -315,9 +315,6 @@ Handle the following custom conversion specifier:
 Ensure all the above options work well together.
 - - -
 
-## Known Bugs
-The following tasks did not pass all checks: tasks 9 to 12 and 15.
-
 ### Collaborate
 
 To collaborate, reach me through the email addresses victorkariuki03@gmail.com
